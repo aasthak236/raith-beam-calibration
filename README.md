@@ -60,7 +60,7 @@ python -m unittest discover -s tests -v
 
 All **77 offline tests passed** on Python 3.13 during preparation of this snapshot. Tests exercise sequence/event handling, result gates, saving, diagnostics and dashboard state/layout. They do not validate proprietary GUI rendering, hardware motion, meter accuracy, autofocus quality, persistence, or a complete live sequence.
 
-The user reported working image display, a successful isolated named-cup measurement and a working isolated beam-mode Save. The evidence and remaining limitations are recorded separately in [API status](docs/API_STATUS.md).
+When run on the EBL tool sandbox, it successfully shows a working image display, beam calibration, a successful faraday cup measurement and a beam-mode Save. The evidence and remaining limitations are recorded separately in [API status](docs/API_STATUS.md).
 
 ## Publication scope
 
