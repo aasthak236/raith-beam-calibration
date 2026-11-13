@@ -4,7 +4,6 @@ An event-driven calibration script with a visual progress dashboard for the Rait
 
 **Current status: partial integration.** The default sequence stops at the sample's three-hole exposure step because that operation is not implemented. The stage-Z adjustment loop is also not implemented. This is not an end-to-end validated instrument release.
 
-Documentation snapshot: 13 November 2026. Existing code behavior is preserved in this snapshot.
 
 ## Start here
 
