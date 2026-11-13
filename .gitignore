@@ -1,0 +1,22 @@
+# Generated Python files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local project/reference material is not part of the public release
+sources/
+reference_extract/
+previews/
+AGENTS.md
+RuntimeIntegrationNotes.md
+RaithScriptingHelp_Findings.md
+BeamCurrentMeasurementNotes.md
+SaveBeamModeNotes.md
+
+# Publication bundles and local environment files
+release/
+.env
+.env.*
+*.log
